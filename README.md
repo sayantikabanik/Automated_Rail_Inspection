@@ -1,4 +1,4 @@
-# Automated_Rail_Inspection<br />
+﻿# Automated_Rail_Inspection<br />
 Based on "INTERNET OF THINGS"<br />
 BRIEF DESCRIPTION: Keeping the perspective of India,<br /> 
 where railways have created a huge impact in day to day activities. <br />
@@ -8,4 +8,8 @@ The data collected is distributed to the nearby control room for immediate respo
 MAIN COMPONENTS USED:- <br />
 •	Microcontroller (ARDUINO MEGA 2560)<br />
 •	Ultrasonic sensor (2mm precision )<br />
+
+contributors:<br />
+Shubham kr agrawal<br />
+sayantika banik<br />
 
